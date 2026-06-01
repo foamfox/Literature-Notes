@@ -1,0 +1,29 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "01-Literature-Notes/Unread",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import Review Paper",
+      "outputPathTemplate": "01-Literature-Notes/Unread/{{citekey}}.md",
+      "imageOutputPathTemplate": "05-Assets/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "99-Templates/literature-note-review-template.md",
+      "cslStyle": "ieee-with-url"
+    },
+    {
+      "name": "Import Research Paper",
+      "outputPathTemplate": "01-Literature-Notes/Unread/{{citekey}}.md",
+      "imageOutputPathTemplate": "05-Assets/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "99-Templates/literature-note-research-template.md",
+      "cslStyle": "ieee-with-url"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "all-imported-notes"
+}
