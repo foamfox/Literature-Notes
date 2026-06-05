@@ -2,6 +2,7 @@
 type: literature
 subtype: research
 itemtype: "{{ itemType }}{% if thesisType %} {{ thesisType }}{% endif %}"
+citekey: "{{citekey}}"
 title: "{{title}}"
 authors: "{% for t in creators %}{{ t.firstName }} {{ t.lastName }}{{ t.name }}{% if not loop.last %}, {% endif %}{% endfor %}"
 date: "{% if date %}{{ date | format('YYYY-MM') }}{% endif %}"
@@ -63,7 +64,6 @@ tags:
 
 **本文要解决的科学/工程问题**:
 - 
-
 ---
 
 ### 2. 研究方法与对象 (Methodology)
@@ -76,6 +76,7 @@ tags:
 - **网格 / 离散策略**:
 - **湍流模型 / 物理模型**:
 - **验证与确认 (V&V)**:
+- **代码可用性（开源/可复现/几何公开）**:
 
 #### 2.3 算例与条件
 | 参数    | 数值  | 备注  |
@@ -133,7 +134,7 @@ tags:
 
 #### 5.2 概念链接
 - 相关概念: [[ ]] [[ ]]
-- 相关文献: [[@ ]] [[@ ]]
+- 相关文献: [[]] [[]]
 
 #### 5.3 启发与延伸思路
 - 

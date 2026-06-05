@@ -7,11 +7,19 @@
   "citeFormats": [],
   "exportFormats": [
     {
+      "name": "Import Monograph",
+      "outputPathTemplate": "02-Monograph-Notes/Unread/{{citekey}}.md",
+      "imageOutputPathTemplate": "05-Assets/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "99-Templates/02-monograph-note-template.md",
+      "cslStyle": "ieee-with-url"
+    },
+    {
       "name": "Import Review Paper",
       "outputPathTemplate": "01-Literature-Notes/Unread/{{citekey}}.md",
       "imageOutputPathTemplate": "05-Assets/{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "99-Templates/literature-note-review-template.md",
+      "templatePath": "99-Templates/01b-literature-note-review-template.md",
       "cslStyle": "ieee-with-url"
     },
     {
@@ -19,7 +27,7 @@
       "outputPathTemplate": "01-Literature-Notes/Unread/{{citekey}}.md",
       "imageOutputPathTemplate": "05-Assets/{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "99-Templates/literature-note-research-template.md",
+      "templatePath": "99-Templates/01a-literature-note-research-template.md",
       "cslStyle": "ieee-with-url"
     }
   ],

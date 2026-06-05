@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5dfdd117e119eeee",
+        "id": "e3f8997febb33160",
         "type": "tabs",
         "children": [
           {
-            "id": "12f0c2c3e0ea4d6c",
+            "id": "f01bac3e52a2d638",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Templates/literature-note-research-template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "literature-note-research-template"
-            }
-          },
-          {
-            "id": "cf297617e6198c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-Templates/literature-note-review-template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "literature-note-review-template"
-            }
-          },
-          {
-            "id": "3ea5acac8c57a7d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-Templates/literature-note-research-template.md",
+                "file": "03-Permanent-Notes/Comparison/cfd-fvm_vs_fem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "literature-note-research-template"
+              "title": "cfd-fvm_vs_fem"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,33 +181,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3ea5acac8c57a7d7",
+  "active": "f01bac3e52a2d638",
   "lastOpenFiles": [
-    "99-Templates/literature-note-review-template.md",
-    "99-Templates/concept-note-template.md",
-    "99-Templates/literature-note-research-template.md",
-    "01-Literature-Notes/Unread/Chen2007.md",
-    "01-Literature-Notes/Unread/Chen2007YeLunJiJieNeiBuLiuDongYanJiuJinZhan.md",
-    "99-Templates/literature-note-review-template-tmp.md",
-    "99-Templates/literature-note-research-template-tmp.md",
-    "00-MOC/Internal Flow.md",
-    "05-Assets",
-    "99-Templates/literature-note-review-integrated-template.md.crdownload",
-    "99-Templates/literature-note-research-integrated-template.md.crdownload",
-    "README.md",
-    "00-MOC/HPC.md",
-    "00-MOC/External Flow.md",
-    "00-MOC/AI Fluids.md",
+    "00-MOC/个人技术路线规划_AI多物理场_并行CFD.md",
+    "00-MOC/个人技术路线规划_AI多物理场_并行CFD.md.crdownload",
+    "03-Permanent-Notes/Concepts/cfd-bc_implementation.md",
     "00-MOC/_Home.md",
-    "99-Templates/literature-note-template.md",
-    "99-Templates/concept-note-template-v2.md.crdownload",
-    "99-Templates/literature-note-review-template.md.crdownload",
-    "99-Templates/literature-note-research-template.md.crdownload",
-    "@greitzer1976Surge.md",
-    "02-Permanent-Notes/Equations",
-    "02-Permanent-Notes/Methods",
-    "02-Permanent-Notes/Concepts",
-    "01-Literature-Notes/Read",
-    "欢迎.md"
+    "03-Permanent-Notes/Comparison/cfd-fvm_vs_fem.md",
+    "03-Permanent-Notes/Concepts/cs-buffer.md",
+    "03-Permanent-Notes/Concepts/Concepts.md",
+    "99-Templates/01a-literature-note-research-template.md",
+    "99-Templates/01b-literature-note-review-template.md",
+    "99-Templates/02-monograph-note-template.md",
+    "99-Templates/03a-concept-note-template.md",
+    "99-Templates/03b-equation-note-template.md",
+    "99-Templates/03c-method-note-template.md",
+    "99-Templates/03d-comparison-note-template.md",
+    "99-Templates/04-exp-note-template.md",
+    "99-Templates/05-code-note-template.md",
+    "@.md",
+    "03-Permanent-Notes/Comparison/FVM-vs-FEM对比笔记.md.crdownload",
+    "03-Permanent-Notes/Comparison",
+    "03-Permanent-Notes/Concepts/CFD边界条件施加方法.md.crdownload",
+    "Pasted image 20260604144027.png",
+    "03-Permanent-Notes/Concepts/cs-factory_pattern.md",
+    "99-Templates/03d-comparison-note-template.md.tmp.13712.9c804a5fac04",
+    "02-Monograph-Notes/Unread/ZhangChuHua2016.md",
+    "03-Permanent-Notes/Concepts/工厂模式_概念笔记.md.crdownload",
+    "00-MOC/Internal Flow.md",
+    "00-MOC/AI Fluids.md",
+    "00-MOC/External Flow.md",
+    "01-Literature-Notes/Unread/Chen2007.md",
+    "03-Permanent-Notes/Concepts/缓冲区概念笔记.md.crdownload",
+    "02-Monograph-Notes/Unread/ZhangLiuTiJiJieNeiLiuLiLunYuJiSuan2016.md",
+    "README.md",
+    "02-Monograph-Notes/Unread/ChenGuoLiang2011.md",
+    "02-Monograph-Notes/Read",
+    "02-Monograph-Notes/Unread",
+    "02-Monograph-Notes",
+    "99-Templates/scar-note-template.md"
   ]
 }

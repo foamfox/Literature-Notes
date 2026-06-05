@@ -27,6 +27,6 @@
     "TQ_show_urgency": "checkbox",
     "year": "date",
     "created": "date",
-    "domain": "checkbox"
+    "domain": "multitext"
   }
 }
