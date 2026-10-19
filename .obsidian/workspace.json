@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Permanent-Notes/Comparison/cfd-fvm_vs_fem.md",
+                "file": "03-Permanent-Notes/Concepts/cfd-naca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cfd-fvm_vs_fem"
+              "title": "cfd-naca"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -183,42 +185,43 @@
   },
   "active": "f01bac3e52a2d638",
   "lastOpenFiles": [
-    "00-MOC/个人技术路线规划_AI多物理场_并行CFD.md",
-    "00-MOC/个人技术路线规划_AI多物理场_并行CFD.md.crdownload",
-    "03-Permanent-Notes/Concepts/cfd-bc_implementation.md",
-    "00-MOC/_Home.md",
-    "03-Permanent-Notes/Comparison/cfd-fvm_vs_fem.md",
-    "03-Permanent-Notes/Concepts/cs-buffer.md",
-    "03-Permanent-Notes/Concepts/Concepts.md",
-    "99-Templates/01a-literature-note-research-template.md",
-    "99-Templates/01b-literature-note-review-template.md",
-    "99-Templates/02-monograph-note-template.md",
-    "99-Templates/03a-concept-note-template.md",
-    "99-Templates/03b-equation-note-template.md",
+    "04-Projects/STAR-CCM+_Linux超算远程图形渲染问题排查实验笔记.md",
+    "07-Inbox/随记.md",
+    "03-Permanent-Notes/Methods/cfd-SHERPA.md",
+    "03-Permanent-Notes/Concepts/mfg-first_principle.md",
+    "03-Permanent-Notes/Concepts/第一性原理_概念笔记.md.crdownload",
+    "03-Permanent-Notes/Concepts/ds-emergence.md",
+    "03-Permanent-Notes/Concepts/涌现_Emergence_概念笔记.md.crdownload",
+    "03-Permanent-Notes/Methods/cfd-bc_implementation.md",
+    "03-Permanent-Notes/Methods/cfd-simulation_closure.md",
     "99-Templates/03c-method-note-template.md",
-    "99-Templates/03d-comparison-note-template.md",
+    "03-Permanent-Notes/Methods/SHERPA_method_note.md",
+    "03-Permanent-Notes/Methods/SHERPA_method_note.md.crdownload",
     "99-Templates/04-exp-note-template.md",
-    "99-Templates/05-code-note-template.md",
-    "@.md",
-    "03-Permanent-Notes/Comparison/FVM-vs-FEM对比笔记.md.crdownload",
-    "03-Permanent-Notes/Comparison",
-    "03-Permanent-Notes/Concepts/CFD边界条件施加方法.md.crdownload",
-    "Pasted image 20260604144027.png",
-    "03-Permanent-Notes/Concepts/cs-factory_pattern.md",
-    "99-Templates/03d-comparison-note-template.md.tmp.13712.9c804a5fac04",
-    "02-Monograph-Notes/Unread/ZhangChuHua2016.md",
-    "03-Permanent-Notes/Concepts/工厂模式_概念笔记.md.crdownload",
     "00-MOC/Internal Flow.md",
     "00-MOC/AI Fluids.md",
     "00-MOC/External Flow.md",
-    "01-Literature-Notes/Unread/Chen2007.md",
-    "03-Permanent-Notes/Concepts/缓冲区概念笔记.md.crdownload",
-    "02-Monograph-Notes/Unread/ZhangLiuTiJiJieNeiLiuLiLunYuJiSuan2016.md",
+    "00-MOC/HPC.md",
     "README.md",
-    "02-Monograph-Notes/Unread/ChenGuoLiang2011.md",
-    "02-Monograph-Notes/Read",
-    "02-Monograph-Notes/Unread",
-    "02-Monograph-Notes",
-    "99-Templates/scar-note-template.md"
+    "04-Projects/code_reading_guide.md",
+    "03-Permanent-Notes/Methods/ds-dynamical_systems.md",
+    "03-Permanent-Notes/Concepts/math-bifurcation.md",
+    "03-Permanent-Notes/Concepts/mfg-bom.md",
+    "03-Permanent-Notes/Concepts/BOM概念笔记.md.crdownload",
+    "03-Permanent-Notes/Comparison/mfg-manufacturing_business_models.md",
+    "03-Permanent-Notes/Concepts/mfg-plm.md",
+    "99-Templates/03a-concept-note-template.md",
+    "03-Permanent-Notes/Concepts/03a-concept-note-template.md",
+    "03-Permanent-Notes/Concepts/cs-buffer.md",
+    "03-Permanent-Notes/Concepts/cs-factory_pattern.md",
+    "03-Permanent-Notes/Concepts/Concepts.md",
+    "03-Permanent-Notes/Concepts/中国行政级别天梯（补充版）.md.crdownload",
+    "06-Assets/PLM.png",
+    "06-Assets/ChatGPT Image 2026年7月16日 14_03_52.png.crdownload",
+    "03-Permanent-Notes/Concepts/PLM-概念笔记.md.crdownload",
+    "03-Permanent-Notes/Comparison/固体域有限元网格_vs_流体域非结构化网格.md.crdownload",
+    "04-Projects/openfoam/traces",
+    "04-Projects/openfoam/snippets",
+    "Pasted image 20260604144027.png"
   ]
 }
