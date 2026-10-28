@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Permanent-Notes/Concepts/cfd-naca.md",
+                "file": "03-Permanent-Notes/Concepts/cfd-Bayesian_optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cfd-naca"
+              "title": "cfd-Bayesian_optimization"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f01bac3e52a2d638",
+  "active": "fbd58f097d6ff2b6",
   "lastOpenFiles": [
+    "03-Permanent-Notes/Concepts/cs-raii.md",
     "04-Projects/STAR-CCM+_Linux超算远程图形渲染问题排查实验笔记.md",
     "07-Inbox/随记.md",
     "03-Permanent-Notes/Methods/cfd-SHERPA.md",
@@ -214,7 +215,6 @@
     "03-Permanent-Notes/Concepts/03a-concept-note-template.md",
     "03-Permanent-Notes/Concepts/cs-buffer.md",
     "03-Permanent-Notes/Concepts/cs-factory_pattern.md",
-    "03-Permanent-Notes/Concepts/Concepts.md",
     "03-Permanent-Notes/Concepts/中国行政级别天梯（补充版）.md.crdownload",
     "06-Assets/PLM.png",
     "06-Assets/ChatGPT Image 2026年7月16日 14_03_52.png.crdownload",

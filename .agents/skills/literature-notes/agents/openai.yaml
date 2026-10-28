@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature 资料笔记"
+  short_description: "将外部资料整理为清晰严谨的知识笔记，选择项目模板并归档至对应目录"
+  default_prompt: "使用 $literature-notes 整理本次资料，自主选择项目模板并写入对应目录。"
